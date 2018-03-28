@@ -7,3 +7,5 @@ En construction :
     - jouer la gamme et les notes survolées
     - affichage sur un clavier piano
     - changement de thème
+    - zoom position gamme
+    - portage sur react native
