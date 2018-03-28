@@ -1,5 +1,5 @@
 
-Appli qui indique toutes les notes d'une gamme sur la manche de la guitare, les données sont récupérées sur l'API Tonal:http://danigb.github.io/tonal/api/index.html
+Appli qui indique toutes les notes d'une gamme sur le manche de la guitare, les données sont récupérées sur l'API Tonal:http://danigb.github.io/tonal/api/index.html
 
 
 
